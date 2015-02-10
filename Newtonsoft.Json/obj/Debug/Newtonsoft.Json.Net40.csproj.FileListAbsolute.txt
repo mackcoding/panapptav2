@@ -1,0 +1,8 @@
+S:\Code\Panappta\Panappta\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.xml
+S:\Code\Panappta\Panappta\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll
+S:\Code\Panappta\Panappta\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.pdb
+S:\Code\Panappta\Panappta\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll.CodeAnalysisLog.xml
+S:\Code\Panappta\Panappta\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll.lastcodeanalysissucceeded
+S:\Code\Panappta\Panappta\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.Net40.csprojResolveAssemblyReference.cache
+S:\Code\Panappta\Panappta\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+S:\Code\Panappta\Panappta\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb

@@ -1,0 +1,16 @@
+S:\Code\github\Panappta\bin\Debug\Panappta.exe.config
+S:\Code\github\Panappta\bin\Debug\Panappta.XML
+S:\Code\github\Panappta\bin\Debug\Panappta.exe
+S:\Code\github\Panappta\bin\Debug\Panappta.pdb
+S:\Code\github\Panappta\obj\Debug\Panappta.Debug.frmDebug.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.Debug.frmError.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.frmAbout.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.frmAlert.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.frmMain.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.frmOptions.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.frmUpdate.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.frmWelcome.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.Properties.Resources.resources
+S:\Code\github\Panappta\obj\Debug\Panappta.csproj.GenerateResource.Cache
+S:\Code\github\Panappta\obj\Debug\Panappta.exe
+S:\Code\github\Panappta\obj\Debug\Panappta.pdb
